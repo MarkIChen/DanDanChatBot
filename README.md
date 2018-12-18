@@ -15,7 +15,7 @@ A ordering system with chat bot by FB messenger
 |`'location''nearest''位置''地點''最近'`  |`location`    |可以依據目前的位置找出最近的丹丹 |
 |`'website''information''網站''資訊'`    |`website`     |可以提供丹丹的資訊網站          |
 
-以下將解說不同state的功能
+##以下將解說不同state的功能
 ###Order
 在order模式下,bot會傳一個份菜單,使用者可以進行點餐
 回傳的字串中含有數字1~12，bot會進行下單
