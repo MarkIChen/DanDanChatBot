@@ -6,7 +6,7 @@ A ordering system with chat bot by FB messenger
 ## How to interact DanDan ChatBot
 The graph is my machine:
 
-![state diagram example](https://github.com/MarkIChen/DanDanChatBot/blob/master/my_state_diagram.png?raw=true)
+![state diagram](https://github.com/MarkIChen/DanDanChatBot/blob/master/my_state_diagram.png?raw=true)
 
 輸入任何字元喚醒 chatbot 
 
@@ -41,8 +41,8 @@ The graph is my machine:
 ### Recommend 點餐推薦系統
 如果使用者不知道要吃什麼可以使用此系統  
 借助Facebook nlp自然語言處理  
-如果使用者回傳的訊息被判定為negative，則系統會在6~10之間任選一套餐，安慰使用者  
-如果使用者回傳的訊息被判定為positive，則系統會在1~5之間任選一套餐，一起慶祝  
+如果使用者回傳的訊息被判定為negative，則系統會在6至10之間任選一套餐，安慰使用者  
+如果使用者回傳的訊息被判定為positive，則系統會在1至5之間任選一套餐，一起慶祝  
 使用者若不滿意此餐點，可以要求重點  
 
 ***
