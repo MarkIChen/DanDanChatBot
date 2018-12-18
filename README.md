@@ -17,6 +17,7 @@ A ordering system with chat bot by FB messenger
 
 ***
 ##以下將解說不同state的功能
+
 ###Order
 在order模式下,bot會傳一個份菜單,使用者可以進行點餐
 回傳的字串中含有數字1~12，bot會進行下單
