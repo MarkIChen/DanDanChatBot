@@ -4,6 +4,10 @@ A ordering system with chat bot by FB messenger
 
 
 ## How to interact DanDan ChatBot
+The graph is my machine:
+
+![state diagram example](https://github.com/MarkIChen/DanDanChatBot/blob/master/my_state_diagram.png?raw=true)
+
 輸入任何字元喚醒 chatbot 
 
 在迎賓模式(user)時 可以使用以下功能:
