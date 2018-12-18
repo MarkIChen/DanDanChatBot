@@ -15,6 +15,7 @@ A ordering system with chat bot by FB messenger
 |`'location''nearest''位置''地點''最近'`  |`location`    |可以依據目前的位置找出最近的丹丹 |
 |`'website''information''網站''資訊'`    |`website`     |可以提供丹丹的資訊網站          |
 
+***
 ##以下將解說不同state的功能
 ###Order
 在order模式下,bot會傳一個份菜單,使用者可以進行點餐
@@ -39,7 +40,7 @@ A ordering system with chat bot by FB messenger
 如果使用者回傳的訊息被判定為positive，則系統會在1~5之間任選一套餐，一起慶祝
 使用者若不滿意此餐點，可以要求重點
 
-
+***
 ## NLP application
 除了recommend 模式會使用到nlp處理，其他如果使用者打Bot無法處理的文字都會丟到nlp 中解讀
 
