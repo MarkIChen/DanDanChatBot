@@ -16,7 +16,7 @@ A ordering system with chat bot by FB messenger
 |`'website''information''網站''資訊'`    |`website`     |可以提供丹丹的資訊網站          |
 
 ***
-##以下將解說不同state的功能
+以下將解說不同state的功能
 
 ###Order
 在order模式下,bot會傳一個份菜單,使用者可以進行點餐
